@@ -1,0 +1,25 @@
+.one
+{
+    display:inline-flex ;
+    margin-top: 5px;
+}
+.card-body
+{
+    background-color: rgb(138, 4, 247);
+}
+.card
+{
+ width: 400px; 
+}
+.two
+{
+    width: 200px;
+    height:34px; 
+    border:2px dashed black; 
+    margin-left:25px;
+    text-align: center;
+}
+.three
+{
+  margin-left:35px   
+}
